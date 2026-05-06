@@ -1,0 +1,16 @@
+{
+  "schema": "rapp-rappid/1.1",
+  "rappid": "41000c66-fa31-4db4-8e0a-d82537f82c4a",
+  "kind": "place",
+  "name": "pkstop-santa-monica-pier",
+  "display_name": "Santa Monica Pier",
+  "github": "https://github.com/kody-w/pkstop-santa-monica-pier",
+  "url": "https://kody-w.github.io/pkstop-santa-monica-pier",
+  "parent_rappid": "0b635450-c042-49fb-b4b1-bdb571044dec",
+  "parent_repo": "https://github.com/kody-w/rapp-installer",
+  "planted_by": "kody-w",
+  "planted_at": "2026-05-06T01:03:07Z",
+  "planted_from": null,
+  "kernel_version": "0.6.0",
+  "location": "Santa Monica, California"
+}
