@@ -1,16 +1,17 @@
 {
-  "schema": "rapp-rappid/1.1",
-  "rappid": "41000c66-fa31-4db4-8e0a-d82537f82c4a",
-  "kind": "place",
+  "schema": "rapp-rappid/2.0",
+  "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-santa-monica-pier:0173031e11cf38eb2838e2ee63059a96@github.com/kody-w/pkstop-santa-monica-pier",
+  "kind": "neighborhood",
   "name": "pkstop-santa-monica-pier",
-  "display_name": "Santa Monica Pier",
+  "display_name": "Pkstop \u2014 Santa Monica Pier",
   "github": "https://github.com/kody-w/pkstop-santa-monica-pier",
-  "url": "https://kody-w.github.io/pkstop-santa-monica-pier",
-  "parent_rappid": "0b635450-c042-49fb-b4b1-bdb571044dec",
-  "parent_repo": "https://github.com/kody-w/rapp-installer",
+  "url": "https://kody-w.github.io/pkstop-santa-monica-pier/",
+  "parent_rappid": null,
+  "parent_repo": "https://github.com/kody-w/RAPP",
   "planted_by": "kody-w",
-  "planted_at": "2026-05-06T01:03:07Z",
-  "planted_from": null,
+  "planted_at": "2026-05-09T22:12:06Z",
   "kernel_version": "0.6.0",
-  "location": "Santa Monica, California"
+  "_planted_by_agent": "backfill_seeds",
+  "_backfilled_at": "2026-05-09T22:12:06Z",
+  "_backfill_reason": "Article XLVI compliance pass"
 }
