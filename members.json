@@ -1,0 +1,15 @@
+{
+  "schema": "rapp-neighborhood-members/1.0",
+  "neighborhood": "kody-w/pkstop-santa-monica-pier",
+  "updated_at": "2026-05-09T22:12:12Z",
+  "open_to_anyone": true,
+  "members": [
+    {
+      "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-santa-monica-pier:0173031e11cf38eb2838e2ee63059a96@github.com/kody-w/pkstop-santa-monica-pier",
+      "github": "kody-w",
+      "role": "founder",
+      "joined_at": "2026-05-09T22:12:12Z",
+      "_note": "The operator who planted this pkstop-santa-monica-pier."
+    }
+  ]
+}
