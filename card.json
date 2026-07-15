@@ -52,7 +52,7 @@
     "quality_tier": "community",
     "license": "PolyForm-Small-Business",
     "kind": "neighborhood",
-    "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-santa-monica-pier:0173031e11cf38eb2838e2ee63059a96@github.com/kody-w/pkstop-santa-monica-pier",
+    "rappid": "rappid:@kody-w/pkstop-santa-monica-pier:3507c2873698cebfa9f09e3f4022fe955256187349ef271fc7db663f6c7e2e32",
     "gate_url": "https://kody-w.github.io/pkstop-santa-monica-pier/",
     "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=13834574548777019412",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"
